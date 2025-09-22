@@ -1,0 +1,20 @@
+0
+1
+1
+2
+1.2
+100
+10000
+
+ENDINPUT
+
+
+# restart		If = 1 restart from last position in INPUT/CONFIG/position.dat
+# state 		Wave function state (= 1 Ground state, = 0 Excited state)
+# probability 	Transition probability (= 1 Uniform, = 0 Gaussian)
+# x0 			Initial x position
+# delta 		Step size
+# N				Number of blocks
+# L				Number of throws in each block
+
+  

@@ -1,0 +1,13 @@
+PROBLEM PARAMETERS:
+Ncities = 34
+Npop = 1000
+Ngen = 500
+
+GENETIC PARAMETERS:
+type = 0
+psel = 2
+pcross = 0.8
+pm_swap = 0.06
+pm_inv = 0.05
+pm_shift = 0.04
+pm_mperm = 0.03

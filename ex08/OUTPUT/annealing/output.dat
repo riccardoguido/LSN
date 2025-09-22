@@ -1,0 +1,23 @@
+METROPOLIS PARAMETERS:
+restart = 1
+mu = 1
+sigma = 0.5
+x0 = 0
+delta = 1.2
+N = 100
+L = 100
+
+SIMULATED ANNEALING PARAMETERS:
+annealing = 1
+beta = 1
+dbeta = 1
+steps_beta = 50
+delta_mu = 1
+delta_sigma = 1
+err_mu = 0.01
+err_sigma = 0.01
+
+OPTIMIZATION RESULTS:
+H = -0.458366
+mu = -0.788637
+sigma = -0.637786

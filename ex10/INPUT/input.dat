@@ -1,0 +1,30 @@
+1000
+2000
+
+1
+20
+
+2.0
+0.8
+0.06
+0.05
+0.04
+0.03
+
+ENDINPUT
+
+
+# Npop    		Population size for each continent
+# Ngen   		Number of generations
+
+# migration	    Migration between continents (1 = True, 0 = False)
+# Nmigr			Number of generations between every migration
+
+# psel  	 	Rank selection exponent
+# pcross     	Crossover probability
+# pm_swap   	Swap mutation probability
+# pm_inv   		Inversion mutation probability
+# pm_shift  	Shift mutation probability
+# pm_mperm		Permutation mutation probability
+
+  

@@ -1,0 +1,37 @@
+1
+0.788637
+0.637786
+0
+2.7
+100
+100
+
+0
+1
+0.5
+50
+0.5
+0.5
+0.01
+0.01
+
+ENDINPUT
+
+
+# restart			If = 1 restart from last position in INPUT/CONFIG/position.dat
+# mu 				Center of Gaussian distribution
+# sigma 			Width of Gaussian distribution
+# x0 				Initial position
+# delta 			Step size
+# N					Number of blocks
+# L					Number of throws in each block
+
+# annealing			Simulated Annealing (1 = True, 0 = False)
+# beta  			Initial inverse temperature
+# db   				Increment of beta
+# steps_beta 		Number of optimization steps for each beta value
+# delta_mu	  		Maximum variation of mu during a step
+# delta_sigma		Maximum variation of sigma during a step
+# err_mu	  		Target error for mu
+# err_sigma			Target error for sigma
+  

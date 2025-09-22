@@ -1,0 +1,19 @@
+PROBLEM PARAMETERS:
+Npop = 1000
+Ngen = 2000
+
+MPI PARAMETERS:
+migration = 1
+Nmigr = 20
+
+GENETIC PARAMETERS:
+psel = 2
+pcross = 0.8
+pm_swap = 0.06
+pm_inv = 0.05
+pm_shift = 0.04
+pm_mperm = 0.03
+
+PARALLELIZATION RESULTS:
+total number of processes = 11
+best global length = 64.8868 found by rank 1

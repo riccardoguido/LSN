@@ -1,0 +1,10 @@
+METROPOLIS PARAMETERS:
+restart = 1
+mu = 0.788637
+sigma = 0.637786
+x0 = 0
+delta = 2.7
+N = 100000
+L = 1
+
+acceptance rate = 0.49929

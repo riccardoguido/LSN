@@ -1,0 +1,28 @@
+34
+1000
+500
+
+0
+2.0
+0.8
+0.06
+0.05
+0.04
+0.03
+
+ENDINPUT
+
+
+# Ncities     	Number of cities
+# Npop    		Population size
+# Ngen   		Number of generations
+
+# type 			Cities generation type (= 1 Circle, = 0 Square)
+# psel  	 	Rank selection exponent
+# pcross     	Crossover probability
+# pm_swap   	Swap mutation probability
+# pm_inv   		Inversion mutation probability
+# pm_shift  	Shift mutation probability
+# pm_mperm		Permutation mutation probability
+
+  

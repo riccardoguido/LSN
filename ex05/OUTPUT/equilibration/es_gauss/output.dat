@@ -1,0 +1,10 @@
+METROPOLIS PARAMETERS:
+restart = 0
+state = 0
+probability = 0
+x0 = 30
+delta = 1.5
+N = 500
+L = 1
+
+acceptance rate = 0.612
